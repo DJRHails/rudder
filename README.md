@@ -1,4 +1,27 @@
-# Tiller
+<h1 align="center">
+  Rudder
+</h1>
+
+<h3 align="center">
+   Reverse Engineering the Tiller Time Tracker
+</h3>
+
+## What is Tiller?
+
+https://user-images.githubusercontent.com/10828202/153549476-6c20644d-f848-43ba-a5b3-49c0e4534888.mp4
+
+
+## Why?
+
+Because the hardware is top-notch, and I want to reuse it! I mean just check out this:
+
+> **Machined aluminium** - A precision machined aluminium dial perfectly meets your finger, giving a delightful tactility to using Tiller.
+>
+> **Precision bearing** - Tiller uses a perfectly smooth rotary bearing, engineered to provide a satisfying resistance navigating between tasks.
+>
+> **Reliable USB** - Tiller uses a hardwired connection to your computer, meaning always-on reliability and no batteries to charge.
+>
+> **Perfectly weighted** - Tiller's weight, combined with its rubber pad, means that it stays put on your desk, right where you need it.
 
 ## Installation
 ```
