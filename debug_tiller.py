@@ -43,7 +43,7 @@ ep_in = usb.util.find_descriptor(
 )
 
 # 01 - pressed (?) 
-# FF - velocity (b)
+# FF - radial velocity (b) -5 to +5 for normal motion, never gets close to midpoint at usable speeds.
 # F6 - unknown/led_state (x) - 2nd least significant bit, 1101 = LED ON, 1111 = LED OFF 
 # 13 - unknown (x)
 # c4 - unknown (x)
